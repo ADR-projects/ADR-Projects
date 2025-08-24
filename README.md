@@ -5,7 +5,7 @@
  ---
 
 ## GitHub Stats :
-# <div align="center"> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ADR-Projects&hide=css,html,ejs&theme=tokyonight&layout=compact&langs_count=8)    <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bWl0c3h4bXRkZHR2ZjBsaWEwN3gzZGVjazh0NDIzaGR3Ym8zM2NsNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/GkD4U3VfiIbzcBhQNu/giphy.gif" width="136px">  </div>
+# <div align="center"> <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bWl0c3h4bXRkZHR2ZjBsaWEwN3gzZGVjazh0NDIzaGR3Ym8zM2NsNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/GkD4U3VfiIbzcBhQNu/giphy.gif" width="136px"> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ADR-Projects&hide=css,html,ejs&theme=tokyonight&layout=compact&langs_count=8)    <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bWl0c3h4bXRkZHR2ZjBsaWEwN3gzZGVjazh0NDIzaGR3Ym8zM2NsNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/GkD4U3VfiIbzcBhQNu/giphy.gif" width="136px">  </div>
 
 ---
 
