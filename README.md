@@ -1,10 +1,10 @@
 
-# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWc4NjNmcTl0dGJsYm5rZGJnanl4dWphOTBjMzQ5c2NlNnA0bm9hciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/gx54W1mSpeYMg/giphy.gif" width="60px">  Hellio, I'm Adr!  
+# <div align="center"> Hellio, I'm Adr! </div>
 
 ## <div align="center"> **MERN Stack & Game Dev Enthusiast** </div>
  ---
 
-## GitHub Stats  
+## GitHub Stats :
 # <div align="center"> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ADR-Projects&hide=css,html,ejs&theme=tokyonight&layout=compact&langs_count=8)    <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bWl0c3h4bXRkZHR2ZjBsaWEwN3gzZGVjazh0NDIzaGR3Ym8zM2NsNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/GkD4U3VfiIbzcBhQNu/giphy.gif" width="136px">  </div>
 
 ---
@@ -14,7 +14,7 @@
 ### 🌐 Web Development  
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### 🍪 Backend / Core  
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)  
@@ -30,7 +30,7 @@
 
 ---
 
-## My to-do list
+## My to-do list !
 - Learning **DSA with Java**  
 - Experimenting with **Godot & Game Design**  
 - Building **MERN projects** & AI-integrated apps  
