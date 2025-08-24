@@ -3,13 +3,12 @@
 
 ## <div align="center"> **MERN Stack & Game Dev Enthusiast** </div>
  ---
-
-## GitHub Stats :
+## <div align="center"> GitHub Stats : </div> 
 # <div align="center"> <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bWl0c3h4bXRkZHR2ZjBsaWEwN3gzZGVjazh0NDIzaGR3Ym8zM2NsNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/GkD4U3VfiIbzcBhQNu/giphy.gif" width="136px"> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ADR-Projects&hide=css,html,ejs&theme=tokyonight&layout=compact&langs_count=8)    <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bWl0c3h4bXRkZHR2ZjBsaWEwN3gzZGVjazh0NDIzaGR3Ym8zM2NsNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/GkD4U3VfiIbzcBhQNu/giphy.gif" width="136px">  </div>
 
 ---
 
-## Tech Stack : 
+## <div align="center"> Tech Stack : </div> 
 
 ### 🌐 On The Web  
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
@@ -29,11 +28,11 @@
 ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B) ![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 
 ---
-
-## My to-do list !
+## <div align="center"> My to-do list ! </div> 
 - Learning **DSA with Java**  
 - Experimenting with **Godot & Game Design**  
 - Building **MERN projects** & AI-integrated apps  
 - Trying out **Arch Linux on WSL** for fun  
 
+## <div align="center"> Have an awesome day ! </div> 
 
