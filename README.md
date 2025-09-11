@@ -1,6 +1,6 @@
 # <div align="center"> <img src="https://i.pinimg.com/originals/73/69/6e/73696e022df7cd5cb3d999c6875361dd.gif" width="40"> Hellio, I'm Adr... </div>
 
-## <div align="center"> 🚀 MERN Stack & Game Dev Enthusiast </div>
+## <div align="center"> 🖲️ MERN Stack & Game Dev Enthusiast </div>
 ---
 
 ## <div align="center"> 📊 GitHub Stats </div> 
