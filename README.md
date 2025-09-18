@@ -2,7 +2,7 @@
 
 ## <div align="center"> 🖲️ MERN Stack & Game Dev Enthusiast </div>
 ---
-
+<!--
 ## <div align="center"> 📊 GitHub Stats </div> 
 <div align="center">
   <img src="https://media.giphy.com/media/GkD4U3VfiIbzcBhQNu/giphy.gif" width="120px">
@@ -11,7 +11,7 @@
 </div>
 
 ---
-
+-->
 ## <div align="center"> 🛠 Tech Stack </div> 
 
 ### 🌐 On The Web  
