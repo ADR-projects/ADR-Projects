@@ -11,6 +11,7 @@
 </div>
 
 ---
+
 <details>
   <summary> 🛠❤️ <strong> My Tech Stack </strong></summary>
   
@@ -50,12 +51,24 @@
 </details>
 
 ---
-  ## <div align="center">[![Gist Card](https://github-readme-stats-adr.vercel.app/api/gist?id=729f2cf552918e341a4843338a0c4555&hide_border&icon_color=d62828&bg_color=102,ffc8dd,a2d2ff,fbc4ab&title_color=9b2226&text_color=000000)](https://gist.github.com/ADR-projects/729f2cf552918e341a4843338a0c4555/) </div>
+
+<details>
+  <summary> <strong> ⌨️ Code Templates </strong></summary>
+  <div align="center">
+  <a href="https://gist.github.com/ADR-projects/729f2cf552918e341a4843338a0c4555/">
+    <img src="https://github-readme-stats-adr.vercel.app/api/gist?id=729f2cf552918e341a4843338a0c4555&hide_border&icon_color=d62828&bg_color=102,ffc8dd,a2d2ff,fbc4ab&title_color=9b2226&text_color=000000" height="200"/>
+  </a>
+  &nbsp;
+  <a href="https://gist.github.com/ADR-projects/f9c76c2ccd03c12ffa6bf24e0bda23f0/">
+    
+  </a>
+</div>
+</details>
 
 ---
 
 <details>
-  <summary> 🏁✅ <strong> My To-Do List</strong></summary>
+  <summary> ✅ <strong> My To-Do List</strong></summary>
   
   <!--
 - Learn **DSA with Java**  
@@ -65,7 +78,6 @@
 - Try **Bash scripting**  
 -->
 </details>
-
 <!--
 ## <div align="center"> To-Do List </div> 
 -->
