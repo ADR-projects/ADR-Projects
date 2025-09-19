@@ -50,12 +50,13 @@
 </details>
 
 ---
+  ## <div align="center">[![Gist Card](https://github-readme-stats-adr.vercel.app/api/gist?id=729f2cf552918e341a4843338a0c4555&hide_border&icon_color=d62828&bg_color=102,ffc8dd,a2d2ff,fbc4ab&title_color=9b2226&text_color=000000)](https://gist.github.com/ADR-projects/729f2cf552918e341a4843338a0c4555/) </div>
 
+---
 
 <details>
   <summary> 🏁✅ <strong> My To-Do List</strong></summary>
   
-  ## <div align="center">[![Gist Card](https://github-readme-stats-adr.vercel.app/api/gist?id=c0168ec3fc4b0d89e3d5177f773e632f&hide_border&icon_color=d62828&bg_color=102,ffc8dd,a2d2ff,fbc4ab&title_color=9b2226&text_color=000000)](https://gist.github.com/ADR-projects/c0168ec3fc4b0d89e3d5177f773e632f/) </div>
   <!--
 - Learn **DSA with Java**  
 - Experiment with **Godot & Game Design**  
