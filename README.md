@@ -70,13 +70,12 @@
 <details>
   <summary> ✅ <strong> My To-Do List</strong></summary>
   
-  <!--
 - Learn **DSA with Java**  
 - Experiment with **Godot & Game Design**  
 - Build **MERN projects** & AI-integrated apps  
 - Reach **100+ WPM typing speed**  
 - Try **Bash scripting**  
--->
+
 </details>
 <!--
 ## <div align="center"> To-Do List </div> 
