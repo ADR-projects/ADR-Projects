@@ -60,7 +60,7 @@
   </a>
   &nbsp;
   <a href="https://gist.github.com/ADR-projects/f9c76c2ccd03c12ffa6bf24e0bda23f0/">
-    
+  <img src="https://github-readme-stats.vercel.app/api/gist?id=f9c76c2ccd03c12ffa6bf24e0bda23f0&hide_border&icon_color=d62828&bg_color=102,ffc8dd,a2d2ff,fbc4ab&title_color=9b2226&text_color=000000" /> 
   </a>
 </div>
 </details>
