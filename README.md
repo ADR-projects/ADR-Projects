@@ -55,7 +55,7 @@
 <details>
   <summary> 🏁✅ <strong> My To-Do List</strong></summary>
   
-  ## <div align="center">[![Gist Card](https://github-readme-stats-adr.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d&hide_border&icon_color=d62828&bg_color=102,ffc8dd,a2d2ff,fbc4ab&title_color=9b2226&text_color=000000)](https://gist.github.com/Yizack/bbfce31e0217a3689c8d961a356cb10d/) </div>
+  ## <div align="center">[![Gist Card](https://github-readme-stats-adr.vercel.app/api/gist?id=c0168ec3fc4b0d89e3d5177f773e632f&hide_border&icon_color=d62828&bg_color=102,ffc8dd,a2d2ff,fbc4ab&title_color=9b2226&text_color=000000)](https://gist.github.com/ADR-projects/c0168ec3fc4b0d89e3d5177f773e632f/) </div>
   <!--
 - Learn **DSA with Java**  
 - Experiment with **Godot & Game Design**  
