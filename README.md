@@ -2,16 +2,16 @@
 
 ## <div align="center"> 🖲️ MERN Stack & Game Dev Enthusiast </div>
 ---
-<!--
+
 ## <div align="center"> 📊 GitHub Stats </div> 
 <div align="center">
   <img src="https://media.giphy.com/media/GkD4U3VfiIbzcBhQNu/giphy.gif" width="120px">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ADR-Projects&hide=css,html,ejs&theme=tokyonight&layout=compact&langs_count=8" />
+  <img src="https://github-readme-stats-adr.vercel.app/api/top-langs/?username=ADR-Projects&hide=css,html,ejs&theme=tokyonight&layout=compact&langs_count=8" />
   <img src="https://media.giphy.com/media/GkD4U3VfiIbzcBhQNu/giphy.gif" width="120px">
 </div>
 
 ---
--->
+
 ## <div align="center"> 🛠 Tech Stack </div> 
 
 ### 🌐 On The Web  
