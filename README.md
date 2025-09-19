@@ -48,17 +48,23 @@
   <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/>
 </p>
 </details>
- 
+
 ---
+
+
 <details>
   <summary> 🏁✅ <strong> My To-Do List</strong></summary>
-
+  
+  ## <div align="center">[![Gist Card](https://github-readme-stats-adr.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d&hide_border&icon_color=d62828&bg_color=102,ffc8dd,a2d2ff,fbc4ab&title_color=9b2226&text_color=000000)](https://gist.github.com/Yizack/bbfce31e0217a3689c8d961a356cb10d/) </div>
+  <!--
 - Learn **DSA with Java**  
 - Experiment with **Godot & Game Design**  
 - Build **MERN projects** & AI-integrated apps  
 - Reach **100+ WPM typing speed**  
 - Try **Bash scripting**  
+-->
 </details>
+
 <!--
 ## <div align="center"> To-Do List </div> 
 -->
