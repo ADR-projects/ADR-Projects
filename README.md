@@ -3,7 +3,7 @@
 
 ## <div align="center"> MERN Stack & Game Dev Enthusiast </div>
 ---
-## <div align="center"> GitHub Stats </div> 
+## <div align="center"> Top Langs 🎃 </div> 
 <div align="center">
   <img src="https://media.giphy.com/media/GkD4U3VfiIbzcBhQNu/giphy.gif" width="120px">
   <img src="https://github-readme-stats-adr.vercel.app/api/top-langs/?username=ADR-Projects&hide=css,html,ejs&title_color=9FEA9F&text_color=ffffff&bg_color=01161e&layout=compact&langs_count=8" />
@@ -12,9 +12,9 @@
 
 ---
 <details>
-  <summary> 🛠 <strong>Tech Stack </strong></summary>
+  <summary> 🛠❤️ <strong> My Tech Stack </strong></summary>
   
-  ### 🌐 Web Dev  
+  ### 🌐 On the Web  
 <p align="center">
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/> 
@@ -51,7 +51,7 @@
  
 ---
 <details>
-  <summary> 📃 <strong>To-Do List</strong></summary>
+  <summary> 🏁✅ <strong> My To-Do List</strong></summary>
 
 - Learn **DSA with Java**  
 - Experiment with **Godot & Game Design**  
@@ -65,4 +65,4 @@
 
 ---
 
-### <div align="center"> ❤️ *Have an awesome day!* ❤️ </div>
+### <div align="center"> 👾 *Have an awesome day!* 👾 </div>
