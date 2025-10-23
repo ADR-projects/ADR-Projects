@@ -13,7 +13,7 @@
 ---
 
 <details>
-  <summary> 🛠❤️ <strong> My Tech Stack </strong></summary>
+  <summary> <strong> Tech Stack </strong></summary>
   
   ### 🌐 On the Web  
 <p align="center">
@@ -68,7 +68,7 @@
 ---
 
 <details>
-  <summary> ✅ <strong> My To-Do List</strong></summary>
+  <summary> ✅ <strong> To-Do List</strong></summary>
   
 - Learn **DSA with Java**  
 - Experiment with **Godot & Game Design**  
