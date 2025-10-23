@@ -52,7 +52,7 @@
 </details>
 
 ---
-
+<!--
 <details>
   <summary> <strong> ⌨️ Code Templates </strong></summary>
   <div align="center">
@@ -65,7 +65,7 @@
   </a>
 </div>
 </details>
-
+-->
 ---
 
 <details>
