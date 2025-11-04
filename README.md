@@ -5,8 +5,9 @@
 ---
 ## <div align="center"> Top Langs 🎃 </div> 
 <div align="center">
-  <img src="https://media.giphy.com/media/GkD4U3VfiIbzcBhQNu/giphy.gif" width="120px">
-  <img src="https://github-readme-stats-adr.vercel.app/api/top-langs/?username=ADR-Projects&hide=css,html,ejs&title_color=9FEA9F&text_color=ffffff&bg_color=01161e&layout=compact&langs_count=8" />
+  <!-- <img src="https://media.giphy.com/media/GkD4U3VfiIbzcBhQNu/giphy.gif" width="120px"> -->
+  <img src= "https://github-readme-stats-adr.vercel.app/api/pin/?username=ADR-projects&repo=github-readme-stats" >
+  <img src="https://github-readme-stats-adr.vercel.app/api/top-langs/?username=ADR-projects&hide=css,html,ejs&title_color=9FEA9F&text_color=ffffff&bg_color=01161e&layout=compact&langs_count=8" />
   <img src="https://media.giphy.com/media/GkD4U3VfiIbzcBhQNu/giphy.gif" width="120px">
 </div>
 
