@@ -1,7 +1,28 @@
 <!-- # <div align="center"> <img src="https://i.pinimg.com/originals/73/69/6e/73696e022df7cd5cb3d999c6875361dd.gif" width="40"> Hello! I am ADR.</div> -->
-# <div align="center"> ⚡Hello! This is ADR </div>
+# <div align="center"> ⚡Hello! This is ADR. </div>
+---
+# <div align="center"> [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=500&color=60F755&background=1F2D3A&center=true&vCenter=true&width=300&height=55&lines=+CS+Undergrad;+MERN+Stack+Dev;+Game+Dev+Hobbyist;+Distro-hopper;Graphic+Designer)](https://git.io/typing-svg) </div>
+---
 
-## <div align="center"> [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=60F755&background=1F2D3A&center=true&vCenter=true&width=450&height=45&lines=+CS+Undergrad;+MERN+Stack+Dev;+Game+Dev+Hobbyist;+Distro-hopper;Graphic+Designer)](https://git.io/typing-svg) </div>
+<div align="center">
+  <img src="https://i.pinimg.com/originals/6e/8d/0b/6e8d0b94a946a0068a445e7a714edcf1.gif" width="250px" alt="typing">
+  
+  ## <div align="center"> **CS Undergrad** • **Full-Stack Developer** • **Game Dev Enthusiast** • **Design Lover** </div>
+  
+  Crafting digital experiences with code & creativity | Always learning, always shipping 👾
+</div>
+
+---
+
+## 🔗 Quick Links
+<div align="center">
+  
+  [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github)](https://github.com/ADR-projects)
+  [![Email](https://img.shields.io/badge/Email-i.adrijadas@gmail.com-EA4335?style=flat-square&logo=gmail)](mailto:i.adrijadas@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](YOUR_LINKEDIN_URL)
+  
+</div>
+
 ---
 ## <div align="center"> Top Langs 🎃 </div> 
 <div align="center">
