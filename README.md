@@ -35,7 +35,10 @@
 
 ---
 
-## <div align="center"> Top Langs 🎃 </div> 
+## <div align="center"> Top Stats 🎃 </div> 
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=ADR-projects&theme=dark&background=01161e&ring=60F755&fire=60F755&currStreakLabel=60F755" alt="GitHub Streak" />
+</div>
 <div align="center">
   <img src="https://media.giphy.com/media/GkD4U3VfiIbzcBhQNu/giphy.gif" width="120px">
   <!-- <img src= "https://github-readme-stats-adr.vercel.app/api?username=ADR-projects&show_icons=true&locale=en" alt="sad" > -->
