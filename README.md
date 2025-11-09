@@ -14,16 +14,27 @@
 
 ---
 
-## 🔗 Quick Links
+## Quick Links!
+
 <div align="center">
   
-  [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github)](https://github.com/ADR-projects)
-  [![Email](https://img.shields.io/badge/Email-i.adrijadas@gmail.com-EA4335?style=flat-square&logo=gmail)](mailto:i.adrijadas@gmail.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](YOUR_LINKEDIN_URL)
+  <a href="mailto:i.adrijadas@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  
+  <a href="https://www.linkedin.com/in/adrija-das-dev/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  
+  <a href="https://leetcode.com/u/adrCodes/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+  </a>
+  
   
 </div>
 
 ---
+
 ## <div align="center"> Top Langs 🎃 </div> 
 <div align="center">
   <img src="https://media.giphy.com/media/GkD4U3VfiIbzcBhQNu/giphy.gif" width="120px">
@@ -104,5 +115,3 @@
 -->
 
 ---
-
-### <div align="center"> 👾 *Have an awesome day!* 👾 </div>
