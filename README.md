@@ -9,7 +9,7 @@
   
   ## <div align="center"> **CS Undergrad** • **Full-Stack Developer** • **Game Dev Enthusiast** • **Design Lover** </div>
   
-  Crafting digital experiences with code & creativity  |  Always learning, always shipping 👾
+  Crafting digital experiences with code & creativity 👾
 </div>
 
 ---
