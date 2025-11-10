@@ -37,7 +37,7 @@
 
 ## <div align="center"> Top Stats 🎃 </div> 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=ADR-projects&theme=dark&background=01161e&ring=60F755&fire=60F755&currStreakLabel=60F755" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ADR-projects&theme=dark-dimmed&bg_color=01161e&color=60F755&line=60F755&point=60F755" alt="Contribution Graph" />
 </div>
 <div align="center">
   <img src="https://media.giphy.com/media/GkD4U3VfiIbzcBhQNu/giphy.gif" width="120px">
