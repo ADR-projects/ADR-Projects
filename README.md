@@ -37,13 +37,13 @@
 
 ## <div align="center"> Top Stats 🎃 </div> 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ADR-projects&theme=dark-dimmed&bg_color=01161e&color=60F755&line=60F755&point=60F755" alt="Contribution Graph" />
-</div>
-<div align="center">
   <img src="https://media.giphy.com/media/GkD4U3VfiIbzcBhQNu/giphy.gif" width="120px">
   <!-- <img src= "https://github-readme-stats-adr.vercel.app/api?username=ADR-projects&show_icons=true&locale=en" alt="sad" > -->
-  <img src="https://github-readme-stats-adr.vercel.app/api/top-langs/?username=ADR-projects&hide=css,html,ejs&title_color=9FEA9F&text_color=ffffff&bg_color=01161e&layout=compact&langs_count=8" />
+  <img src="https://github-readme-stats-adr.vercel.app/api/top-langs/?username=ADR-projects&hide=css,html,ejs&title_color=9FEA9F&text_color=ffffff&bg_color=01161e&layout=compact&langs_count=8"/>
   <img src="https://media.giphy.com/media/GkD4U3VfiIbzcBhQNu/giphy.gif" width="120px">
+</div>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ADR-projects&theme=dark-dimmed&bg_color=01161e&color=60F755&line=60F755&point=60F755" alt="Contribution Graph" />
 </div>
 
 ---
