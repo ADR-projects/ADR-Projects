@@ -14,7 +14,7 @@
 
 ---
 
-## Quick Links!
+## <div align="center"> Quick Links! </div>
 
 <div align="center">
   
