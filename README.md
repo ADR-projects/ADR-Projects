@@ -105,11 +105,9 @@
 <details>
   <summary> <strong> To-Do List ✅</strong></summary>
   
-- Learn **DSA with Java**  
-- Experiment with **Godot & Game Design**  
+- Learn **DSA with Java** 
 - Build **MERN projects** & AI-integrated apps  
 - Reach **100+ WPM typing speed**  
-- Try **Bash scripting**  
 
 </details>
 <!--
