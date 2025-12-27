@@ -5,7 +5,7 @@
 ---
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/6e/8d/0b/6e8d0b94a946a0068a445e7a714edcf1.gif" width="250px" alt="typing">
+  <img src="https://i.pinimg.com/originals/6e/8d/0b/6e8d0b94a946a0068a445e7a714edcf1.gif" width="400px" alt="typing">
   
   ## <div align="center"> **Full-Stack Developer** • **Game Dev Enthusiast** • **Graphic Designer** </div>
   
