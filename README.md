@@ -12,9 +12,10 @@
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
   
-  ## <div align="center"> **Full-Stack Developer** • **Game Dev Enthusiast** • **Graphic Designer** </div>
-  
-  Crafting digital experiences with code & creativity 👾
+  ## <div align="center"> **Full-Stack Developer** • **Tech-Enthusiast** • **Graphic Designer** </div>
+
+<div align="center">
+  👾 Crafting digital experiences with every line of code 👾
 </div>
 
 ---
