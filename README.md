@@ -3,9 +3,14 @@
 ---
 # <div align="center"> [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=500&color=60F755&background=1F2D3A&center=true&vCenter=true&width=300&height=55&lines=+CS+Undergrad;+MERN+Stack+Dev;+Game+Dev+Hobbyist;+Distro-hopper;Graphic+Designer)](https://git.io/typing-svg) </div>
 ---
-
+<!--
 <div align="center">
   <img src="https://i.pinimg.com/originals/6e/8d/0b/6e8d0b94a946a0068a445e7a714edcf1.gif" width="400px" alt="typing">
+  -->
+
+  <div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
   
   ## <div align="center"> **Full-Stack Developer** • **Game Dev Enthusiast** • **Graphic Designer** </div>
   
