@@ -1,22 +1,30 @@
 <!-- # <div align="center"> <img src="https://i.pinimg.com/originals/73/69/6e/73696e022df7cd5cb3d999c6875361dd.gif" width="40"> Hello! I am ADR.</div> -->
 # <div align="center"> ⚡Hello! This is ADR. </div>
 ---
-# <div align="center"> [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=500&color=60F755&background=1F2D3A&center=true&vCenter=true&width=300&height=55&lines=+CS+Undergrad;+MERN+Stack+Dev;+Game+Dev+Hobbyist;+Graphic+Designer)](https://git.io/typing-svg) </div>
+  ## <div align="center"> About Me 🌠</div>
+
+I am a **Full-stack web-developer** currently pursuing my **Bachelor's Degree**. Constantly working on new projects, building & breaking things to advance my learning of the web & tech in general.
+    
+I focus on making applications that appeal to a wide variety of people and are simple to understand and use, solving numerous tricky problems. 
+
+I started with **Java**, then tried **C++**, then moved on to the **MERN** & **PERN** stack. I like to explore new technologies, so I also learned **bash-scripting**, game development using **Godot**. 
+I am always learning something new - so I am exploring relational databases using **PostgreSQL**, advanced **DSA using Java** and game dev without game engines. 
+
+I have also worked as an **Illustrator** for magazines & small businesses which sharpens my ability to see a design through by putting myself in the shoes of the user.
+
 ---
+  
 <!--
+# <div align="center"> [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=500&color=60F755&background=1F2D3A&center=true&vCenter=true&width=300&height=55&lines=+CS+Undergrad;+MERN+Stack+Dev;+Game+Dev+Hobbyist;+Graphic+Designer)](https://git.io/typing-svg) </div>
 <div align="center">
   <img src="https://i.pinimg.com/originals/6e/8d/0b/6e8d0b94a946a0068a445e7a714edcf1.gif" width="400px" alt="typing">
-  -->
+-->
 
   <div align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
   
-  ## <div align="center"> **Full-Stack Developer** • **Tech-Enthusiast** • **Graphic Designer** </div>
-
-<div align="center">
-  👾 Crafting digital experiences with every line of code 👾
-</div>
+### <div align="center"><em>"Alright, let's get out there today and make a difference"</em></div>
 
 ---
 
@@ -62,6 +70,7 @@
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/> 
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/> 
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
 ### 🍪 Core  
@@ -111,9 +120,11 @@
 <details>
   <summary> <strong> To-Do List ✅</strong></summary>
   
-- Learn **DSA with Java** 
+- **DSA with Java**
+- Learn about **Relational Databases**
 - Build **MERN projects** & AI-integrated apps  
-- Reach **100+ WPM typing speed**  
+- Reach **100+ WPM typing speed**
+- Having a **great time** always 
 
 </details>
 <!--
