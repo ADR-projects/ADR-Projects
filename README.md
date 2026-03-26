@@ -10,7 +10,7 @@ I focus on making applications that appeal to a wide variety of people and are s
 I started with **Java**, then tried **C++**, then moved on to the **MERN** & **PERN** stack. I like to explore new technologies, so I also learned **bash-scripting**, game development using **Godot**. 
 I am always learning something new - so I am exploring relational databases using **PostgreSQL**, advanced **DSA using Java** and game dev without game engines. 
 
-I have also worked as an **Illustrator** for magazines & small businesses which sharpens my ability to see a design through by putting myself in the shoes of the user.
+I have also worked as an **Illustrator & Graphic Designer** for events, magazines & small businesses which sharpens my ability to see a design through by putting myself in the shoes of the user.
 
 ---
   
