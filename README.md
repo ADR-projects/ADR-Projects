@@ -31,6 +31,10 @@ I have also worked as an **Illustrator & Graphic Designer** for events, magazine
 ## <div align="center"> Quick Links! </div>
 
 <div align="center">
+
+  <a href=" https://adrija-das.vercel.app/"> 
+    <img src="https://img.shields.io/badge/Portfolio-20B2AA?style=for-the-badge" alt="Portfolio"/>
+  </a>
   
   <a href="mailto:i.adrijadas@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
@@ -43,7 +47,6 @@ I have also worked as an **Illustrator & Graphic Designer** for events, magazine
   <a href="https://leetcode.com/u/adrCodes/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
   </a>
-  
   
 </div>
 
