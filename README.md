@@ -126,8 +126,8 @@ I have also worked as an **Illustrator & Graphic Designer** for events, magazine
   <summary> <strong> To-Do List ✅</strong></summary>
   
 - **DSA with Java**
-- Build Projects using **Django**
-- Learn about **Relational Databases**
+- Build Projects using **Postgres**
+- Learn about **SpringBoot and ML**
 - Build **MERN projects** & AI-integrated apps  
 - Reach **100+ WPM typing speed**
 - Having a **great time** always 
