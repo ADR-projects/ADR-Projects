@@ -23,6 +23,24 @@ I have also worked as an **Illustrator & Graphic Designer** for events, magazine
 
 *Based in Kolkata  💚  I like my code practical and my interfaces a little handmade.*
 
+<p align="center">
+  <a href="mailto:i.adrijadas@gmail.com">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=gmail" title="Gmail"/>
+  </a>
+  <a href="https://adrija-das.vercel.app/">
+    <img src="/icons/dark-portfolio.png" height="48" title="Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/adrija-das-dev/">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin&theme=dark" title="LinkedIn"/>
+  </a>
+  <a href="https://leetcode.com/u/adrCodes/">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=leetcode&theme=dark" title="LeetCode"/>
+  </a>
+  <a href="https://discord.com/users/adrija_das_y2k5">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=discord&theme=dark" title="Discord"/>
+  </a>
+</p>
+
 ---
 <h2 align="center">Stats 🍜</h2>
 <div align="center">
