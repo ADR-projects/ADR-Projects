@@ -1,8 +1,12 @@
 <!-- # <div align="center"> <img src="https://i.pinimg.com/originals/73/69/6e/73696e022df7cd5cb3d999c6875361dd.gif" width="40"> Hello! I am ADR.</div> -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:55a630,100:2b9348&height=180&section=header&text=Hello!%20This%20is%20ADR.&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=40" alt="header banner" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:55a630,100:2b9348&height=190&section=header&text=Hello!%20This%20is%20ADR.&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=40" alt="header banner" width="100%"/>
 </div>
+
+---
+
+<h2 align="center">CSE  ✧  Full-Stack Developer  ✧  MERN/PERN  ✧  Java</h2>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
@@ -19,6 +23,8 @@ I have also worked as an **Illustrator & Graphic Designer** for events, magazine
 
 *Based in Kolkata  💚  I like my code practical and my interfaces a little handmade.*
 
+---
+<h2 align="center">Stats 🍜</h2>
 <div align="center">
   <img src="https://commitpulse.vercel.app/api/streak?user=ADR-projects&theme=ocean" alt="CommitPulse Contribution Graph for ADR-projects"/>
 </div>
@@ -31,9 +37,8 @@ I have also worked as an **Illustrator & Graphic Designer** for events, magazine
   <img src="https://i.pinimg.com/originals/6e/8d/0b/6e8d0b94a946a0068a445e7a714edcf1.gif" width="400px" alt="typing">
 -->
 
-### <div align="center"><em>"Alright, let's get out there today and make a difference"</em></div>
 
-## <div align="center"> Quick Links! </div>
+## <div align="center"> 🌠 Quick Links! (Connect with me) </div>
 
 <div align="center">
   
@@ -69,10 +74,10 @@ I have also worked as an **Illustrator & Graphic Designer** for events, magazine
 ---
 -->
 
-<details>
-  <summary> <strong> Tech Stack 🏁</strong></summary>
+<details open>
+<summary> <strong> Tech Stack 🏁</strong></summary>
   
-  ### 🌐 On the Web  
+  #### 🌐 On the Web  
 <p align="center">
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
@@ -82,19 +87,26 @@ I have also worked as an **Illustrator & Graphic Designer** for events, magazine
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
-### 🍪 Core  
+#### 🍪 Core  
 <p align="center">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white"/>
 </p>
 
-### 🎮 Game Dev  
+#### 🫕 Tools I use  
+<div align="center">
+  
+[![Tools](https://skillicons.dev/icons?i=linux,vscode,vim,neovim,docker,prisma,git,github,idea,postman)](https://skillicons.dev)
+
+</div>
+
+<!-- #### 🎮 Game Dev  
 <p align="center">
   <img src="https://img.shields.io/badge/GDScript-%2374267B.svg?style=for-the-badge&logo=godotengine&logoColor=white"/>
-</p>
+</p> -->
 
-### 🐧 OS  
+#### 🐧 OS  
 <p align="center">
   <!-- <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge"/> -->
   <img src="/icons/OMARCHY-black.svg" height="45"/>
@@ -102,7 +114,7 @@ I have also worked as an **Illustrator & Graphic Designer** for events, magazine
   <img src="https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white"/>
 </p>
 
-### 🎨 Art & Design
+#### 🎨 Art & Design
 <p align="center">
   <img src="https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B"/>
   <img src="https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E"/>
@@ -125,8 +137,8 @@ I have also worked as an **Illustrator & Graphic Designer** for events, magazine
 </details>
 -->
 
-<details>
-  <summary> <strong> To-Do List ✅</strong></summary>
+<details> 
+<summary> <strong> To-Do List ✅</strong></summary>
   
 - **DSA with Java**
 - Build Projects using **Postgres**
@@ -139,6 +151,10 @@ I have also worked as an **Illustrator & Graphic Designer** for events, magazine
 <!--
 ## <div align="center"> To-Do List </div> 
 -->
+
+---
+
+> #### <div align="center"><em>"Alright, let's get out there today and make a difference"</em></div>
 
 ---
 
