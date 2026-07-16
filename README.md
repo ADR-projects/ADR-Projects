@@ -21,7 +21,7 @@ I started with **Java**, then tried **C++**, then moved on to the **MERN** & **P
 
 I have also worked as an **Illustrator & Graphic Designer** for events, magazines & small businesses which sharpens my ability to see a design through by putting myself in the shoes of the user.
 
-*Based in Kolkata  💚  I like my code practical and my interfaces a little handmade.*
+*Building software with a designer's eye 💚 I like my code practical and my interfaces a little handmade.*
 
 <!-- ## <div align="center"> 🌠 Quick Links! (Connect with me) </div> -->
 
@@ -49,7 +49,7 @@ I have also worked as an **Illustrator & Graphic Designer** for events, magazine
 ---
 <h2 align="center">Stats 🍜</h2>
 <div align="center">
-  <img src="https://commitpulse.vercel.app/api/streak?user=ADR-projects&theme=ocean" alt="CommitPulse Contribution Graph for ADR-projects"/>
+  <img src="https://commitpulse.vercel.app/api/streak?user=ADR-projects&theme=monokai&size=medium&width=400" alt="CommitPulse Contribution Graph for ADR-projects"/>
 </div>
 
 <!--
