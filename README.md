@@ -1,32 +1,37 @@
 <!-- # <div align="center"> <img src="https://i.pinimg.com/originals/73/69/6e/73696e022df7cd5cb3d999c6875361dd.gif" width="40"> Hello! I am ADR.</div> -->
-# <div align="center"> ⚡Hello! This is ADR. </div>
----
-  ## <div align="center"> About Me 🌠</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:55a630,100:2b9348&height=180&section=header&text=Hello!%20This%20is%20ADR.&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=40" alt="header banner" width="100%"/>
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
+<h2 align="center">About Me 🌠</h2>
 
 I am a **Full-stack web-developer** currently pursuing my **Bachelor's Degree**. Constantly working on new projects, building & breaking things to advance my learning of the web & tech in general.
-    
-I focus on making applications that appeal to a wide variety of people and are simple to understand and use, solving numerous tricky problems. 
+I focus on making applications that appeal to a wide variety of people and are simple to understand and use, solving numerous tricky problems.
 
-I started with **Java**, then tried **C++**, then moved on to the **MERN** & **PERN** stack. I like to explore new technologies, so I also learned **bash-scripting**, game development using **Godot**. 
-I am always learning something new - so I am exploring Backend-Dev using **Django**, relational databases using **PostgreSQL**, advanced **DSA using Java** and game dev without game engines. 
+I started with **Java**, then tried **C++**, then moved on to the **MERN** & **PERN** stack. I am exploring relational databases using **PostgreSQL**, advanced **DSA using Java**, **DevOps** and game dev without game engines.
 
 I have also worked as an **Illustrator & Graphic Designer** for events, magazines & small businesses which sharpens my ability to see a design through by putting myself in the shoes of the user.
 
+*Based in Kolkata  💚  I like my code practical and my interfaces a little handmade.*
+
+<div align="center">
+  <img src="https://commitpulse.vercel.app/api/streak?user=ADR-projects&theme=ocean" alt="CommitPulse Contribution Graph for ADR-projects"/>
+</div>
+
 ---
-  
+
 <!--
 # <div align="center"> [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=500&color=60F755&background=1F2D3A&center=true&vCenter=true&width=300&height=55&lines=+CS+Undergrad;+MERN+Stack+Dev;+Game+Dev+Hobbyist;+Graphic+Designer)](https://git.io/typing-svg) </div>
 <div align="center">
   <img src="https://i.pinimg.com/originals/6e/8d/0b/6e8d0b94a946a0068a445e7a714edcf1.gif" width="400px" alt="typing">
 -->
 
-  <div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-  
 ### <div align="center"><em>"Alright, let's get out there today and make a difference"</em></div>
-
----
 
 ## <div align="center"> Quick Links! </div>
 
@@ -69,18 +74,18 @@ I have also worked as an **Illustrator & Graphic Designer** for events, magazine
   
   ### 🌐 On the Web  
 <p align="center">
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/> 
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src = "https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
 ### 🍪 Core  
 <p align="center">
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white"/>
 </p>
 
@@ -92,16 +97,16 @@ I have also worked as an **Illustrator & Graphic Designer** for events, magazine
 ### 🐧 OS  
 <p align="center">
   <!-- <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge"/> -->
-    <img src="/icons/OMARCHY-black.svg" height="45"/>
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
-  <img src="https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white"/> 
+  <img src="/icons/OMARCHY-black.svg" height="45"/>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white"/>
 </p>
 
 ### 🎨 Art & Design
 <p align="center">
-  <img src="https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B"/> 
-  <img src="https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E"/> 
-    <img src = "https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13" />
+  <img src="https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B"/>
+  <img src="https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E"/>
+  <img src="https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13"/>
   <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/>
 </p>
 </details>
@@ -119,8 +124,6 @@ I have also worked as an **Illustrator & Graphic Designer** for events, magazine
 </div>
 </details>
 -->
-
----
 
 <details>
   <summary> <strong> To-Do List ✅</strong></summary>
