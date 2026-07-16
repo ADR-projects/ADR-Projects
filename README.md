@@ -6,7 +6,7 @@
 
 ---
 
-<h2 align="center">CSE  ✧  Full-Stack Developer  ✧  MERN/PERN  ✧  Java</h2>
+<h2 align="center">🌿 CSE  ✧  Full-Stack Developer  ✧  MERN/PERN  ✧  Java 🌿</h2>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
@@ -23,12 +23,17 @@ I have also worked as an **Illustrator & Graphic Designer** for events, magazine
 
 *Based in Kolkata  💚  I like my code practical and my interfaces a little handmade.*
 
+<!-- ## <div align="center"> 🌠 Quick Links! (Connect with me) </div> -->
+
+---
+
+<h2 align="center">☘️ Quick Links:</h2>
 <p align="center">
   <a href="mailto:i.adrijadas@gmail.com">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=gmail" title="Gmail"/>
   </a>
   <a href="https://adrija-das.vercel.app/">
-    <img src="/icons/dark-portfolio.png" height="48" title="Portfolio"/>
+    <img src="/icons/world-dark-portfolio.png" height="48" title="Portfolio"/>
   </a>
   <a href="https://www.linkedin.com/in/adrija-das-dev/">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin&theme=dark" title="LinkedIn"/>
@@ -47,15 +52,13 @@ I have also worked as an **Illustrator & Graphic Designer** for events, magazine
   <img src="https://commitpulse.vercel.app/api/streak?user=ADR-projects&theme=ocean" alt="CommitPulse Contribution Graph for ADR-projects"/>
 </div>
 
----
-
 <!--
 # <div align="center"> [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=500&color=60F755&background=1F2D3A&center=true&vCenter=true&width=300&height=55&lines=+CS+Undergrad;+MERN+Stack+Dev;+Game+Dev+Hobbyist;+Graphic+Designer)](https://git.io/typing-svg) </div>
 <div align="center">
   <img src="https://i.pinimg.com/originals/6e/8d/0b/6e8d0b94a946a0068a445e7a714edcf1.gif" width="400px" alt="typing">
 -->
 
-
+<!--
 ## <div align="center"> 🌠 Quick Links! (Connect with me) </div>
 
 <div align="center">
@@ -77,6 +80,7 @@ I have also worked as an **Illustrator & Graphic Designer** for events, magazine
   </a>
   
 </div>
+-->
 
 ---
 <!--
